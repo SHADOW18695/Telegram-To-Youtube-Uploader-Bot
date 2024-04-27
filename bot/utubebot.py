@@ -3,7 +3,7 @@ from pyrogram import Client
 from .config import Config
 
 
-class UtubeBot(Client):
+class UtubeBot(Client, Config):
     def __init__(self):
         super().__init__(
             session_name=Config.SESSION_NAME,
