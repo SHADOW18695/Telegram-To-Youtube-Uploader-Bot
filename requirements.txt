@@ -16,7 +16,7 @@ pyaes
 pyasn1
 pyasn1-modules
 pyparsing
-Pyrogram
+Pyrogram==1.2.9
 PySocks
 requests
 requests-oauthlib
