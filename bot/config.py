@@ -4,7 +4,7 @@ class Config:
 
     BOT_TOKEN = ""
 
-#    SESSION_NAME = ""
+    SESSION_NAME = ""
 
     API_ID = ""
 
